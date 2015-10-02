@@ -1,0 +1,2 @@
+LIGHTRED='\033[1;31m'
+printf "${LIGHTRED}"

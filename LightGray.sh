@@ -1,0 +1,2 @@
+LIGHTGRAY='\033[0;37m'
+printf "${LIGHTGRAY}"

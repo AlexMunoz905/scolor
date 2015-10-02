@@ -1,0 +1,2 @@
+LIGHTPURPLE='\033[1;35m'
+printf "${LIGHTPURPLE}"
