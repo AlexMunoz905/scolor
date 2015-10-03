@@ -1,4 +1,4 @@
-##Download:## **https://www.dropbox.com/s/12lffgvpeva5btm/scolor.zip?dl=0** OR **http://www.mediafire.com/download/53t6qxjkjni64qp/scolor.zip**
+##Download: **https://www.dropbox.com/s/12lffgvpeva5btm/scolor.zip?dl=0** OR **http://www.mediafire.com/download/53t6qxjkjni64qp/scolor.zip**
 # scolor
 Adds shell color
 
